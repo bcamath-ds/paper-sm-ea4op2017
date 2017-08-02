@@ -1,5 +1,5 @@
 <h4>Supplementary Material</h4>
-<h2>An efficient evolutionary algorithm for the orienteering problem <br></br><sub><sub>Gorka Kobeaga, María Merino and Jose A. Lozano</sub></sub></h2>
+<h2>An efficient evolutionary algorithm for the orienteering problem <br/> <sub><sub>Gorka Kobeaga, María Merino and Jose A. Lozano</sub></sub></h2>
 
 In this repository, you will find the supplementary material for the paper entitled "An efficient evolutionary algorithm for the orienteering problem".
 
